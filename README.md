@@ -1,273 +1,137 @@
 <div align="center">
 
-<img width="100%" src="YOUR_CUSTOM_GOLDEN_HOUR_BANNER.svg">
+# Ujjawal Patel
 
-# 🌅 Hey, I'm **Ujjawal Patel**
+### Building software that is fast, beautiful, and meaningful.
 
-### Full Stack Developer • AI Explorer • Premium UI/UX Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=900&color=F6C453&center=true&vCenter=true&width=900&lines=Building+Premium+Web+Experiences;Creating+TrackerOS;Developing+Trading+Mentor;Learning+AI+%26+Machine+Learning;One+Commit+Closer+Every+Day" />
+<sub>
+Full Stack Developer • AI Explorer • UI/UX Enthusiast • ICT Engineer
+</sub>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F6C453"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C4DFF"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=F6C453"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=500&size=18&duration=3500&pause=1200&color=FFD166&center=true&vCenter=true&width=700&lines=Crafting+premium+digital+experiences.;Learning+AI+one+project+at+a+time.;Turning+ideas+into+products.;Always+building.+Always+learning." />
 
 </div>
 
 ---
 
-# 🌇 About Me
+## ✦ About
 
-```bash
-> whoami
+I'm a **B.Tech Information & Communication Technology** student who enjoys building products that combine **clean engineering** with **beautiful user experiences**.
 
-👤 Ujjawal Patel
+My interests span across **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Trading Technology**, and **Modern UI/UX Design**.
 
-🎓 B.Tech in Information & Communication Technology
-
-📍 India
-
-💻 Full Stack Developer
-
-🎨 Premium UI/UX Enthusiast
-
-🤖 AI & Machine Learning Explorer
-
-📈 Trading Technology Learner
-
-📷 Photographer
-
-🚀 Building products people enjoy using.
-```
+I enjoy transforming ideas into polished applications that people genuinely enjoy using.
 
 ---
 
-# 🌅 Current Journey
+## ✦ Quick Profile
 
 ```text
-2021  ─────────────►  Started ICT Engineering
+👨 Name         Ujjawal Patel
 
-2022  ─────────────►  C & C++
+🎓 Education   B.Tech • ICT
 
-2023  ─────────────►  Web Development
+💼 Focus       Full Stack Development
 
-2024  ─────────────►  React Ecosystem
+🌱 Exploring   AI • Machine Learning
 
-2025  ─────────────►  Backend + Databases
+🎨 Passion     Premium UI/UX
 
-2026  ─────────────►  AI • Trading • Premium Products
+📍 Location    India
+
+☕ Motto        Build. Learn. Improve.
 ```
 
 ---
 
-# 🚀 Currently Building
+## ✦ Technical Toolkit
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| 📊 TrackerOS | Productivity & Goal Tracking Platform | 🟢 Active |
-| 📈 Trading Mentor | Learn Trading from Historical Market Data | 🟢 Active |
-| 🌍 Portfolio v2 | Premium Interactive Portfolio | 🟡 Improving |
-| 🤖 AI Experiments | Machine Learning Playground | 🔵 Learning |
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+### Frontend
 
-# ⚡ Tech Stack
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
+- HTML5
+- CSS3
 
-### 🎨 Frontend
+</td>
 
-<p>
+<td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind"/>
+### Backend
 
-</p>
+- Node.js
+- Express.js
+- Python
+- FastAPI
 
-### ⚙ Backend
+</td>
+</tr>
 
-<p>
+<tr>
+<td valign="top">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
+### Database
 
-</p>
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
 
-### 🗄 Database
+</td>
 
-<p>
+<td valign="top">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+### Tools
 
-</p>
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+- Postman
+- Figma
 
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
-
-</p>
-
----
-
-# 🌍 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts"/>
-
-</p>
-
----
-
-# 🏆 Featured Projects
-
-## 📊 TrackerOS
-
-> A premium productivity system to organize goals, habits, and projects with beautiful UI and thoughtful workflows.
-
-**Tech:** React • Tailwind CSS • Zustand • Local Storage
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Trading Mentor
+## ✦ Experience
 
-> A learning-focused platform that analyzes previous trading sessions to help understand entries, exits, and market behavior.
-
-**Tech:** Python • FastAPI • Data Analysis
-
----
-
-## 🌍 Portfolio
-
-> A modern portfolio featuring smooth animations, responsive layouts, and a premium user experience.
-
-**Tech:** React • Framer Motion • Tailwind CSS
-
----
-
-## 🤖 AI Playground
-
-> A collection of experiments exploring computer vision, machine learning, and intelligent applications.
-
-**Tech:** Python • OpenCV • Machine Learning
-
----
-
-# 🏅 Achievements
-
-✨ Built multiple full-stack applications
-
-✨ Strong passion for clean UI/UX
-
-✨ Exploring Artificial Intelligence
-
-✨ Consistent learner
-
-✨ Core Team Member — Photography & Movie Making Club
-
-✨ Enjoy turning ideas into polished products
-
----
-
-# 💼 Experience
-
-## 📷 Photography & Movie Making Club
+### 📸 Photography & Movie Making Club
 
 **Core Team Member**
 
-📸 Event Photography
-
-🎬 Creative Media
-
-🤝 Team Collaboration
-
-📢 Event Coordination
+Worked on event coverage, photography, media management, and team coordination while collaborating with creative teams to document and promote college events.
 
 ---
 
-# 🌄 Beyond Coding
+## ✦ Featured Projects
 
-| Hobby | Why I Enjoy It |
-|---------|----------------|
-| 📷 Photography | Capturing stories through light |
-| 📈 Trading | Understanding market psychology |
-| 📚 Reading | Continuous learning |
-| 🎮 Gaming | Strategy & creativity |
-| 🏊 Swimming | Focus & discipline |
-| 🎨 UI Design | Creating memorable digital experiences |
+### 📊 TrackerOS
 
----
+A modern productivity platform focused on goal management, habit tracking, and project organization with a clean, intuitive interface.
 
-# 📊 GitHub Dashboard
+**Stack**
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+`React` • `Tailwind CSS` • `Zustand`
 
 ---
 
-# 📈 Contribution Graph
+### 📈 Trading Mentor
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+A learning-focused platform designed to analyze historical market sessions and help traders understand strategies through structured insights.
 
----
+**Stack**
 
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
----
-
-# 🌠 Philosophy
-
-> *"Great software isn't just functional—it feels effortless, memorable, and crafted with care."*
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-F6C453?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-F6C453?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="YOUR_X_PROFILE">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 🌅 Thanks for stopping by.
-
-### *"See you in the next commit."*
-
-⭐ If you like my work, consider following my journey.
-
-</div>
+`Python` • `FastAPI` • `Data Analysis`
